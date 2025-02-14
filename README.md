@@ -1,7 +1,6 @@
 ## Title of the Project
-```Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
-```
+### MISSING PERSONS LOCATOR AND ALERT SYSTEM USING FACE RECOGNITION
+
 ## ABSTRACT
 ```The issue of missing persons is a significant problem in India, with thousands of individuals, particularly women, children, and elderly people, going missing 
 each year. The reasons behind these disappearances range from human trafficking, kidnapping, and abductions to natural calamities, accidents, and 
